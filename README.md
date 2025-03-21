@@ -5,7 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [Data Engineering](#data-engineering)
 - [ML & Analytics](#ml--analytics)
-- [Check out my website!](#-check-out-my-website-)
+- [Check out my website!](#check-out-my-website)
 
 # Data Engineering
 
@@ -25,7 +25,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# 🌐 Check out my website!
-Visit my website to explore more about my data projects, blog posts, tutorials, and other insights from my data engineering and machine learning journey. Here, you’ll find detailed explanations, code examples, and even some of my personal thoughts on the future of data science and analytics.
+# Check out my website!
+Visit my website to explore more about my data projects, blog posts, and other insights from my data journey. Here, you’ll find some of my personal thoughts on the future of data science and AI.
 
 [Visit My Website](https://www.yourwebsite.com)
+
+
