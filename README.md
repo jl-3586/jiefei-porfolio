@@ -20,7 +20,7 @@ Welcome to my data portfolio! This repository showcases some of the projects I'v
 # ML & Analytics
 | Project name | Completion Date | Area of Analysis | Project Description | 
 |---|---|---|---|
-| 🩺 Psychiatric Diagnostic prediction | On Going | LightGBM, SHAP, Feature Engineering, Multimodal Datasets | Developed a three-stage hierarchical classification using LightGBM to predict psychiatric disease diagnoses from multimodal datasets with 1K+ NLP features. Conducted extensive feature engineering to optimize model inputs and used SHAP analysis for enhanced interpretability of model decisions. |  
+| 🩺 Psychiatric Diagnostic prediction | Ongoing | LightGBM, SHAP, Feature Engineering, Multimodal Datasets | Developed a three-stage hierarchical classification using LightGBM to predict psychiatric disease diagnoses from multimodal datasets with 1K+ NLP features. Conducted extensive feature engineering to optimize model inputs and used SHAP analysis for enhanced interpretability of model decisions. |  
 | 👩🏻‍⚕️ Clustering analysis for CKD Patients | May 2023 | EDA, data prepreprocessing, ML modeling, survival analysis | Analyzed more than 8M+ healthcare claim data for chronic kidney disease (CKD) patients. Use random forest and survival analysis for feature selection, and applied Agglomerative Hierarchical Clustering model that predicts the CKD progression which provided support to healthcare providers in providing personal level treatment| 
 ***
 
