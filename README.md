@@ -28,6 +28,6 @@ Welcome to my data portfolio! This repository showcases some of the projects I'v
 # Check out my website!
 Visit my website to explore more data projects, blog posts, and insights on AI, data science, and tech.
 
-[Visit My Website](https://jiefei-website.vercel.app/)
+[Visit My Website](https://jiefei-porfolio.vercel.app/)
 
 
