@@ -29,6 +29,7 @@ Welcome to my data portfolio! This repository showcases some of the projects I'v
 
 # Data Visualization
 | Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
 | 🏡 [Tableau Dashboard: E-Commerce Data]([https://github.com/jl-3586/dbtlearn](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17436601179500/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) | April 2024 | Tableau | Implement a Tableau interactive dashboard visualized the YoY E-commerce sale data including key sales metrics across customer segments and products |
 
 ***
