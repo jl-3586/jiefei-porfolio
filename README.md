@@ -5,7 +5,9 @@ Welcome to my data portfolio! This repository showcases some of the projects I'v
 ## Table of Contents
 - [Data Engineering](#data-engineering)
 - [ML & Analytics](#ml--analytics)
+- [Data Visualization](data-visualization)
 - [Check out my website!](#check-out-my-website)
+
 
 # Data Engineering
 
@@ -22,6 +24,13 @@ Welcome to my data portfolio! This repository showcases some of the projects I'v
 |---|---|---|---|
 | 🩺 Psychiatric Diagnostic prediction | Ongoing | LightGBM, SHAP, Feature Engineering, Multimodal Datasets | Developed a three-stage hierarchical classification using LightGBM to predict psychiatric disease diagnoses from multimodal datasets with 1K+ NLP features. Conducted extensive feature engineering to optimize model inputs and used SHAP analysis for enhanced interpretability of model decisions. |  
 | 👩🏻‍⚕️ Clustering analysis for CKD Patients | May 2023 | EDA, data prepreprocessing, ML modeling, survival analysis | Analyzed more than 8M+ healthcare claim data for chronic kidney disease (CKD) patients. Use random forest and survival analysis for feature selection, and applied Agglomerative Hierarchical Clustering model that predicts the CKD progression which provided support to healthcare providers in providing personal level treatment| 
+***
+
+
+# Data Visualization
+| Project Link | Completion Date | Tools | Project Description | 
+| 🏡 [Tableau Dashboard: E-Commerce Data]([https://github.com/jl-3586/dbtlearn](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17436601179500/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) | April 2024 | Tableau | Implement a Tableau interactive dashboard visualized the YoY E-commerce sale data including key sales metrics across customer segments and products |
+
 ***
 
 
