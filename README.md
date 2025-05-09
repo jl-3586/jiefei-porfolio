@@ -1,6 +1,6 @@
 # 🗺 Jiefei's Portfolio
 
-Welcome to my data portfolio! This repository showcases some of the projects I've worked on in data engineering, machine learning, and analytics.
+Welcome to my data portfolio! This repository showcases some of the projects I've worked on in data analytics, visualizations, engineering, and machine learning tools.
 
 ## Table of Contents
 - [Data Visualization](data-visualization)
